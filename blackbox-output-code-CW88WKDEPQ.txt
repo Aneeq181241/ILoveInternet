@@ -1,0 +1,32 @@
+# I Love Internet - AI Assistant Website
+
+![Website Screenshot](https://via.placeholder.com/800x400?text=I+Love+Internet+AI+Website)
+
+## Overview
+"I Love Internet" is a comprehensive AI assistant website that combines the capabilities of ChatGPT and DeepSeek with additional premium document processing features at a more affordable price point. The platform offers three subscription tiers with varying levels of access to AI tools and document conversion features.
+
+## Features
+
+### Core AI Capabilities
+- Conversational AI chat interface
+- Code generation and explanation
+- Language translation (100+ languages)
+- Content writing assistance
+- Data analysis and visualization
+- AI tutoring for educational purposes
+
+### Document Processing Tools (Premium/Pro only)
+- PDF creation from text/documents
+- Word to PDF conversion
+- PDF to Word conversion
+- PowerPoint presentation generation
+- Excel to PDF conversion
+- Document compression
+
+### Special Features
+- Image upload and analysis (20/day in Free tier)
+- Voice search functionality (limited in Premium, unlimited in Pro)
+- File attachment support
+- Responsive design for all devices
+
+## Subscription Tiers
